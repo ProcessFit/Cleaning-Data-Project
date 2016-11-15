@@ -1,10 +1,5 @@
----
-title: "Codebook for Tidy Data Set"
-subtitle: "Coursera Getting and Cleaning Data, Course Project"
-output:
-  html_document:
-    keep_md: yes
----
+## Codebook for Tidy Data Set
+### Coursera Getting and Cleaning Data, Course Project
 
 ## Project Description
 This assignment uses data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
