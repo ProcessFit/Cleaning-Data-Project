@@ -26,7 +26,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 ##Creating the tidy datafile
 
 ###Guide to create the tidy data file UCIoutputData.csv
-The tidy data file is created using the script run_analysis.R. The script includes the sourcing the data from the site, joining data tables and transforms. [link to the readme document that describes the code in greater detail]()
+The tidy data file is created using the script run_analysis.R. The script includes the sourcing the data from the site, joining data tables and transforms. 
 Two formats are available within the script - "wide", or "long and skinny". 
 The "long and skinny format" has been chosen as "tidy" data and has been output to the UCIoutputData.csv file.
 
